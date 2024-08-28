@@ -3,11 +3,12 @@
 - Anime / Manga
 - Video games, current main rotation:
   - Tekken 8
-    - Main: Reina
+    - Main: Reina (until Heihachi comes out THANK YOU HARADA)
     - Every Friday night get together with other local players and run sets all night. Have started streaming matches that take place on my setup
     - Recent tournament placements:
       - Z Axis April 2024: 13th
       - Z Axis May 2024: 7th
+      - Boston Blue Beat Beach Episode 2024: 25th
   - Celeste
     - recently finished all C sides, Farewell, etc.
     - Slowly working on golden berries
