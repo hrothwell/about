@@ -9,6 +9,7 @@
       - Z Axis April 2024: 13th
       - Z Axis May 2024: 7th
       - Boston Blue Beat Beach Episode 2024: 25th
+      - MKO August 2024: 4th
   - Celeste
     - recently finished all C sides, Farewell, etc.
     - Slowly working on golden berries
