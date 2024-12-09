@@ -20,6 +20,9 @@
 - Pool
   - was randomly suggested to join a pool league, did it for a while but currently on a break from league play
 
+# Indie Game Dev
+- working on a small indie game using the Godot engine, more to come soon hopefully 
+
 # Links
 
 - [My library](https://www.librarything.com/catalog/HoneTheRat)
