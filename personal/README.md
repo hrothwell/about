@@ -1,24 +1,16 @@
 # Hobbies
 
 - Anime / Manga
-- Video games, current main rotation:
-  - Tekken 8
-    - Main: Reina (until Heihachi comes out THANK YOU HARADA)
-    - Every Friday night get together with other local players and run sets all night. Have started streaming matches that take place on my setup
-    - Recent tournament placements:
-      - Z Axis April 2024: 13th
-      - Z Axis May 2024: 7th
-      - Boston Blue Beat Beach Episode 2024: 25th
-      - MKO August 2024: 4th
-  - Celeste
-    - recently finished all C sides, Farewell, etc.
-    - Slowly working on golden berries
-    - Starting to do any% speedruns
+- Vtubers (👻✨)
+- Video games, fav games I've played in 2025 so far:
+  - Bloons TD6
+  - Doom Eternal
+  - FFVII Rebirth (100% almost killed me though)
+  - Dead as Disco (demo)
+  - Tekken 8 (although the current state is a little... yeahh...)
 - Rock climbing
   - used to be a climbing guide while in college
   - have recently been climbing less and focusing on other hobbies but still getting out on weekends here and there
-- Pool
-  - was randomly suggested to join a pool league, did it for a while but currently on a break from league play
 
 # Indie Game Dev
 - working on a small indie game using the Godot engine, more to come soon hopefully 
@@ -27,5 +19,5 @@
 
 - [My library](https://www.librarything.com/catalog/HoneTheRat)
 - [MyAnimeList](https://myanimelist.net/profile/Hone_the_Rat)
-- [Twitch](https://twitch.tv/hone_the_rat) - Tekken streams, Celeste, etc
-- [YouTube](https://www.youtube.com/@hone_the_rat) - mostly Tekken vods
+- [Twitch](https://twitch.tv/hone_the_rat)
+- [YouTube](https://www.youtube.com/@hone_the_rat)
