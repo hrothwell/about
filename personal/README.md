@@ -8,12 +8,13 @@
   - FFVII Rebirth (100% almost killed me though)
   - Dead as Disco (demo)
   - Tekken 8 (although the current state is a little... yeahh...)
+  - Hollow Knight + Silksong
 - Rock climbing
   - used to be a climbing guide while in college
   - have recently been climbing less and focusing on other hobbies but still getting out on weekends here and there
 
 # Indie Game Dev
-- working on a small indie game using the Godot engine, more to come soon hopefully 
+- working on a small indie games using the Godot engine
 
 # Links
 
